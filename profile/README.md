@@ -23,4 +23,4 @@ At AIdaptics, we focus on delivering high-quality automation that saves business
 - **Enhance customer experiences** with real-time, personalized support.
 - **Scale operations** efficiently without increasing manual workloads.
 
-"""
+
